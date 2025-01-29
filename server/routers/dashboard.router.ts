@@ -24,6 +24,14 @@ export const dashboardRouter = router({
         tags: [DashboardTag.Layer2],
       },
       {
+        name: "RollupCodes",
+        description:
+          "A comprehensive tool for developers to compare and do in-depth analysis of the expanding Ethereum ecosystem",
+        url: "https://www.rollup.codes/",
+        image: "/dashboard-images/rollup-codes.png",
+        tags: [DashboardTag.Layer2],
+      },
+      {
         name: "AlphaDay",
         description:
           "Alphaday is the ultimate crypto dashboard for staying up to date with all things crypto and interacting with your favorite DApps",
